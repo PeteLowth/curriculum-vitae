@@ -1,91 +1,125 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Pete Lowth's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Peter Lowth BA MMath FIA
+Highly technical General Insurance Actuary and Data Professional.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:peter@lowth.com">peter@lowth.com</a>
+| <a href="https://www.linkedin.com/in/pete-lowth-61527584/">LinkedIn</a>
 </div>
 
+## Profile
 
-## Currently
+### Professional interests
 
-Standing on the shoulders of giants
+Insurance analytics, data visualisation, explainable machine learning, cloud data platforms, InsurTech
 
-### Specialized in
+### Personal interests
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Board games, quizzes, music, hiking, whisky
 
+### Technology
 
-### Research interests
+**Python:** pandas, numpy, matplotlib, scikit-learn, statsmodels, xgboost, jupyter, keras, tensorflow
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Analytics:** Looker, Tableau, Mode
 
+**Database:** Snowflake, Redshift, postgres
+
+**ETL:** Airflow, Fivetran
+
+**Actuarial:** Emblem, Radar, Classifier, ResQ
+
+**Other:** AWS, GCP, git (with CI/CD), Excel, R
+
+## Experience
+
+### Munich Re
+`2019-07 - now`
+__Data and Analytics Lead, Digital Partners__
+- Responsibility for all data received from our European InsurTech partners and the platforms used for analytics
+- Led a large transformation of our data platform, including the selection, design and implementation of a number of modern data tools:
+  - Looker: Business Intelligence platform enabling widespread self-serve analytics via a curated data model
+  - Snowflake: Cloud Data Warehouse which has yielded material analytics performance improvements and increased flexibility and scalability in defining and delivering on our data strategy
+  - Airflow: automation and monitoring of previously ad-hoc and manual ETL workflows
+- Work closely with InsurTech partners and internal stakeholders to define, implement, test and monitor data integrations
+- Manage a team of two data analysts
+
+### Zego
+`2018-09 - 2019-06`
+__Pricing Actuary__
+- De facto Analytics and Business Intelligence lead
+- Selected and implemented Looker as our BI platform, enabling widespread self-serve analytics
+- Worked with senior stakeholders across the business (pricing, marketing, customer service, finance, product leads, tech) to define, monitor and forecast meaningful KPIs
+- Developed ETLs with Data Engineers to ingest multiple internal and external data sources into the data warehouse
+- Worked with Engineers to scope and implement platform changes to record user behaviour for analytics
+- Developed user segmentations based on demographic data and observed working patterns
+- Built machine learning models to predict various user behaviours, including conversions from marketing leads, cancellations, failed top-ups, shift volumes
+- Managed one data analyst
+
+### The AA
+`2018-06 - 2018-09`
+__Pricing Contractor__
+- Interim responsibility for breakdown cover renewal pricing, usually handled by two person team
+- Refactored modelling data and MI pipelines in SAS, reducing runtimes, code complexity and improving accuracy
+- Refreshed suite of Emblem pricing models (risk frequency, retention rates, cancellation rates), improving modelling processes and predictiveness
+- Rebuilt Radar optimisation environment, improving efficiency and accuracy of LTV calculation and optimisation objective
+- Deployed optimised rates in Radar Live
+
+### Cytora
+`2018-03 - 2018-06`
+__Senior Data Scientist__
+- Developed commercial property risk pricing models using machine learning and open data
+- Rebuilt core modelling pipelines, introducing new algorithms and achieving significant uplifts in model performance, explainability, and robustness of backtest evaluation metrics
+- Developed an internal Python package of modelling tools to be used across the business, including standardised pre-processing, visualisation, model training and validation
+
+### Willis Towers Watson
+`2012-08 - 2018-03`
+__Consultant, Insurance Consulting & Technology__
+- Provided pricing support for personal lines insurance companies, including end-to-end build and review of motor and household risk models, rating areas, vehicle groups, and retail price optimisation
+- Championed the deployment of data science methods on predictive modelling projects to improve performance of existing models and efficiency of established processes
+- Trained others across multiple teams and countries on how to use R for Machine Learning in Pricing
+- Produced a library of technical presentation content to demystify data science concepts and demonstrate their applications
+- Advised software engineers on implementation of machine learning features in the WTW pricing suite
+- Responsible for the general insurance software training program: maintaining materials and sufficient internal resource to deliver them; developing and delivering bespoke/advanced courses
+- Managed three junior associates and multiple interns
+- Worked on multiple reserving and capital modelling projects
+
+### Willis Towers Watson
+`2011-07 - 2011-08`
+__Intern, Insurance Consulting & Technology__
+- Household property segmentation project
+
+### DataKind
+`2017-07 - now`
+__Volunteer__
+- Participate in regular “DataDives”, helping charities gain insights into their programs as a Data Scientist (delivering solutions on the weekend-long event) and as a Data Ambassador (helping the charity prepare their data and questions in advance of the event)
+- Member of the Selection and Scoping committee, responsible for assessing the data maturity of charities, the viability of their proposed data science projects, and the impact of selected projects once they have been completed 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+### Profession
+`2012 - now`
+__Institute and Faculty of Actuaries__
+- Fully Qualified Fellow in five exam sittings (FIA: 2015-04)
+- Awarded Sir Joseph Burn Prize for achieving the highest UK IFoA exam results (2015-04)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### University
+`2008 - 2012`
+__Clare College, Cambridge__
+- Distinction in Masters of Mathematics (MMath: 2012)
+- Awarded Thomas Bond Sprague Prize for distinguished performance in Actuarial Statistics, Advanced Financial Models, Advanced Probability, Optimal Investment, and Stochastic Calculus (2012)
+- First Class degree in Mathematics (BA: 2011)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+### School
+`2001 - 2008`
+__Saint Olave's Grammar School, Orpington__
+- A level: 4 As (Maths, Further Maths, Physics, Chemistry)
+- AS level: 6 As (Maths, Further Maths, Physics, Chemistry, Geography, Critical Thinking)
+- GCSE: 5 A\*s (including Maths and English), 4 As and 1 B
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: 2020-07 -->
