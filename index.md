@@ -22,7 +22,7 @@ Board games, quizzes, music, hiking, whisky
 
 ### Technology
 
-**Python:** pandas, numpy, matplotlib, scikit-learn, statsmodels, xgboost, jupyter, keras, tensorflow etc
+**Python:** including Data Science packages like pandas, numpy, matplotlib, scikit-learn, statsmodels, xgboost, jupyter, keras, tensorflow etc
 
 **Analytics:** Looker, Tableau, Mode
 
@@ -32,7 +32,7 @@ Board games, quizzes, music, hiking, whisky
 
 **Actuarial:** Emblem, Radar, Classifier, ResQ
 
-**Other:** AWS, GCP, git (with CI/CD), Excel, R
+**Other:** AWS, GCP, git (with CI/CD), Excel, R (needs refreshing)
 
 ## Experience
 
@@ -42,11 +42,11 @@ __Data and Analytics Lead, Digital Partners__
 - Responsibility for the platform used for analytics and data ingestion for all data received from our European InsurTech partners
 - Led a large transformation of our data platform, including the selection, design and implementation of a number of modern data tools:
   - Looker: Business Intelligence platform enabling widespread self-serve analytics and real-time reporting via a curated data model
-  - Snowflake: Cloud Data Warehouse which has yielded material analytics performance improvements and increased flexibility and scalability in defining and delivering on our data strategy
+  - Snowflake: Cloud Data Warehouse which has yielded material analytics performance improvements and increased flexibility and scalability, supporting our data strategy
   - Airflow: automation and monitoring of previously ad-hoc and manual ETL workflows
   - The platform is built and maintained in agile teams following robust engineering practices, including CI/CD pipelines in GitLab and role-based access controls. This was critical to passing a recent internal data warehouse audit. 
 - Work closely with InsurTech partners and internal stakeholders to define, implement, test and monitor data integrations
-- Support internal pricing, product, claims and finance teams with their data and analytics, including: 
+- Support internal pricing, product, claims and finance teams with their analytics, including: 
   - Automation of reserving and forecasting pipelines with ETLs and machine learning
   - Real-time claims alerts and sales monitoring integrated with Slack
   - Risk and behavioural modelling pipelines using xgboost and tensorflow (PoC)
@@ -58,8 +58,8 @@ __Pricing Actuary__
 - De facto Analytics and Business Intelligence lead
 - Selected and implemented Looker as our BI platform, enabling widespread self-serve analytics
 - Worked with senior stakeholders across the business (pricing, marketing, customer service, finance, product leads, tech) to define, monitor and forecast meaningful KPIs
-- Developed ETLs with Data Engineers to ingest multiple internal and external data sources into the data warehouse
-- Worked with Engineers to scope and implement platform changes to record user behaviour for analytics
+- Developed ETLs with data engineers to ingest internal and external data sources
+- Worked with engineers to scope and implement platform changes to improve data collection
 - Developed user segmentations based on demographic data and observed working patterns
 - Built machine learning models to predict various user behaviours, including conversions from marketing leads, cancellations, failed top-ups, shift volumes
 - Managed one data analyst
@@ -83,12 +83,12 @@ __Senior Data Scientist__
 ### Willis Towers Watson
 `2012-08 - 2018-03`
 __Consultant, Insurance Consulting & Technology__
-- Provided pricing support for personal lines insurance companies, including end-to-end build and review of motor and household risk models, rating areas, vehicle groups, and retail price optimisation
+- Provided pricing support for personal lines insurance companies, including build and review of motor and household risk models, rating areas, vehicle groups, and price optimisation
 - Championed the deployment of data science methods on predictive modelling projects to improve performance of existing models and efficiency of established processes
-- Trained others across multiple teams and countries on how to use R for Machine Learning in Pricing
+- Trained colleagues in other teams on how to use R for Machine Learning in Pricing
 - Produced a library of technical presentation content to demystify data science concepts and demonstrate their applications
-- Advised software engineers on implementation of machine learning features in the WTW pricing suite
-- Responsible for the general insurance software training program: maintaining materials and sufficient internal resource to deliver them; developing and delivering bespoke/advanced courses
+- Advised engineers on implementation of machine learning features in the WTW pricing suite
+- Responsible for the general insurance software training program: maintaining materials and sufficient resource to deliver them; developing and delivering bespoke courses
 - Managed three junior associates and multiple interns
 - Worked on multiple reserving and capital modelling projects
 
