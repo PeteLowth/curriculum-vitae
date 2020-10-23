@@ -44,6 +44,7 @@ __Data and Analytics Lead, Digital Partners__
   - Looker: Business Intelligence platform enabling widespread self-serve analytics and real-time reporting via a curated data model
   - Snowflake: Cloud Data Warehouse which has yielded material analytics performance improvements and increased flexibility and scalability in defining and delivering on our data strategy
   - Airflow: automation and monitoring of previously ad-hoc and manual ETL workflows
+  - The platform is built and maintained in agile teams following robust engineering practices, including CI/CD pipelines in GitLab and role-based access controls. This was critical to passing a recent internal data warehouse audit. 
 - Work closely with InsurTech partners and internal stakeholders to define, implement, test and monitor data integrations
 - Support internal pricing, product, claims and finance teams with their data and analytics, including: 
   - Automation of reserving and forecasting pipelines with ETLs and machine learning
