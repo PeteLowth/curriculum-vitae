@@ -22,7 +22,7 @@ Board games, quizzes, music, hiking, whisky
 
 ### Technology
 
-**Python:** Data Science packages, including: pandas, numpy, matplotlib, scikit-learn, statsmodels, xgboost, jupyter, keras, tensorflow
+**Python:** pandas, numpy, matplotlib, scikit-learn, statsmodels, xgboost, jupyter, keras, tensorflow etc
 
 **Analytics:** Looker, Tableau, Mode
 
@@ -48,8 +48,8 @@ __Data and Analytics Lead, Digital Partners__
 - Work closely with InsurTech partners and internal stakeholders to define, implement, test and monitor data integrations
 - Support internal pricing, product, claims and finance teams with their data and analytics, including: 
   - Automation of reserving and forecasting pipelines with ETLs and machine learning
-  - Real-time claims alerts and sales monitoring integrated with our main communication tool (Slack)
-  - Advanced risk and behavioural modelling pipelines using xgboost and tensorflow (proof of concept)
+  - Real-time claims alerts and sales monitoring integrated with Slack
+  - Risk and behavioural modelling pipelines using xgboost and tensorflow (PoC)
 - Manage a team of two data analysts
 
 ### Zego
